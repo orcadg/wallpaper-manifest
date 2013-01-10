@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpapers>
+
+    <!--
+         Categories accept:
+        id="<string>" unique id string
+        name="<string>" visual name
+        
+        Wallpapers accept:
+        url="<url of wallpaper>"
+        thumbUrl="<url of thumbnail>"
+        author="<author>" may be used for filtering later
+        date="<date added>" may be used for filtering later
+        name="<wallpaper name">
+    -->
+
+    <category name="All" >
+
+        <wallpaper
+            author="Flower"
+            url="http://drewgaren.com/orcapapers/wallpaper_1.jpeg" />
+
+        <wallpaper
+            author="Hex"
+            url="http://drewgaren.com/orcapapers/wallpaper_2.jpeg" />
+
+        <wallpaper
+            author="Color Twirl"
+            url="http://drewgaren.com/orcapapers/wallpaper_3.jpeg" />
+
+        <wallpaper
+            author="Color Stream"
+            url="http://drewgaren.com/orcapapers/wallpaper_4.jpeg" />
+
+        <wallpaper
+            author="Color Zag"
+            url="http://drewgaren.com/orcapapers/wallpaper_5.jpeg" />
+
+        <wallpaper
+            author="Stripes"
+            url="http://drewgaren.com/orcapapers/wallpaper_6.jpeg" />
+
+        <wallpaper
+            author="Color Dock"
+            url="http://drewgaren.com/orcapapers/wallpaper_7.jpeg" />
+
+        <wallpaper
+            author="ButtaFlies"
+            url="http://drewgaren.com/orcapapers/wallpaper_8.jpeg" />
+
+        <wallpaper
+            author="Stones"
+            url="http://drewgaren.com/orcapapers/wallpaper_9.jpeg" />
+
+        <wallpaper
+            author="Beach"
+            url="http://drewgaren.com/orcapapers/wallpaper_10.jpeg" />
+
+        <wallpaper
+            author="Farm"
+            url="http://drewgaren.com/orcapapers/wallpaper_11.jpeg" />
+
+        <wallpaper
+            author="Traffic"
+            url="http://drewgaren.com/orcapapers/wallpaper_12.jpeg" />
+
+        <wallpaper
+            author="Cubed"
+            url="http://drewgaren.com/orcapapers/wallpaper_13.jpeg" />
+
+        <wallpaper
+            author="Orca Almighty"
+            url="http://drewgaren.com/orcapapers/wallpaper_14.jpeg" />
+            
+	    <wallpaper
+            author="Autumn"
+            url="http://drewgaren.com/orcapapers/autumn_hd.jpg" />
+
+        <wallpaper
+            author="Blue Sky"
+            url="http://drewgaren.com/orcapapers/blue_sky.jpg" />
+
+        <wallpaper
+            author="Cloudy"
+            url="http://drewgaren.com/orcapapers/cloudy.jpg" />
+
+        <wallpaper
+            author="Chic"
+            url="http://drewgaren.com/orcapapers/cute_cap.jpg" />
+
+        <wallpaper
+            author="Pear"
+            url="http://drewgaren.com/orcapapers/pear.jpg" />
+
+        <wallpaper
+            author="London Bridge"
+            url="http://drewgaren.com/orcapapers/london_bridge_hd.jpg" />
+
+        <wallpaper
+            author="Woods"
+            url="http://drewgaren.com/orcapapers/nature_hd.jpg" />
+
+        <wallpaper
+            author="Sunset"
+            url="http://drewgaren.com/orcapapers/sunset.jpg" />
+    </category>
+
+    <category name="Newest" >
+
+	    <wallpaper
+            author="Autumn"
+            url="http://drewgaren.com/orcapapers/autumn_hd.jpg" />
+
+        <wallpaper
+            author="Blue Sky"
+            url="http://drewgaren.com/orcapapers/blue_sky.jpg" />
+
+        <wallpaper
+            author="Cloudy"
+            url="http://drewgaren.com/orcapapers/cloudy.jpg" />
+
+        <wallpaper
+            author="Chic"
+            url="http://drewgaren.com/orcapapers/cute_cap.jpg" />
+
+        <wallpaper
+            author="Pear"
+            url="http://drewgaren.com/orcapapers/pear.jpg" />
+
+        <wallpaper
+            author="London Bridge"
+            url="http://drewgaren.com/orcapapers/london_bridge_hd.jpg" />
+
+        <wallpaper
+            author="Woods"
+            url="http://drewgaren.com/orcapapers/nature_hd.jpg" />
+
+        <wallpaper
+            author="Sunset"
+            url="http://drewgaren.com/orcapapers/sunset.jpg" />
+    </category>
+
+</wallpapers>
